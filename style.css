@@ -1,0 +1,46 @@
+.container{
+    width: 1200px;
+    height: 750px;
+    background-color: yellow;
+    margin: auto;
+}
+.head{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+
+}
+.flex{
+    background-color: black;
+    color: wheat;
+    height: 300px;
+    width: 300px;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: center;
+    margin: 5px;
+    text-align: center;
+}
+.main{
+    display: flex;
+    margin: 5px;
+    flex-wrap: wrap;
+    justify-content: space-around;
+
+}
+.yoz{
+    color: aliceblue;
+
+}
+b{
+    color: rgb(255, 200, 0);
+    width: 200px;
+    height: 50px;
+}
+.box{
+    background-color:  #CD5D5D;
+    text-align: center;
+}
+.h1{
+    color: aliceblue;
+}
